@@ -1,0 +1,1 @@
+var s=(e,t)=>{document.dispatchEvent(new CustomEvent(e,{detail:t}))},a=(e,t)=>{const n=r=>t(r.detail);return document.addEventListener(e,n),{remove(){document.removeEventListener(e,n)}}};export{a as n,s as t};
