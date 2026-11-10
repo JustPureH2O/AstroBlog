@@ -1,0 +1,34 @@
+﻿# JustPureH2O 的博客
+> 这是 JustPureH2O 的个人博客，主打高中文化课知识整理、信息竞赛算法、信息竞赛题解以及一些学校生活中的趣事逸闻
+
+## Key Pages
+- [主页](https://justpureh2o.cn/)
+- [归档](https://justpureh2o.cn/archive/)
+- [关于我](https://justpureh2o.cn/about/)
+- [友链](https://justpureh2o.cn/friends/): 这里是我的朋友们，欢迎互相访问交流
+- [留言](https://justpureh2o.cn/guestbook/): 欢迎在这里留下你的足迹，分享你的想法和建议
+- [项目](https://justpureh2o.cn/projects/): 这里展示我开发过的项目
+- [相册](https://justpureh2o.cn/gallery/): 记录生活中的美好瞬间
+- [番组计划](https://justpureh2o.cn/bangumi/): 记录我的二次元之旅
+
+## Recent Posts
+- [分数树 Stern-Brocot Tree](https://justpureh2o.cn/articles/51342/)
+- [[转载/熟肉] 鸣潮的性能与卡顿：引擎架构、硬件误区与长线运营的真实代价](https://justpureh2o.cn/articles/32709/): 把“鸣潮卡顿”拆成两个完全不同的现象：城内由 GameThread 协调开销造成的模式 A，与离城时资源流送刷新叠加 V8 GC 的模式 B。从 UE4 线程模型、OOP 内存布局、Puerts 脚本层一路讲到补丁记录与技术债务，并回应社区的性能剖析、机型缩放的实测数据与常见误区。
+- [[转载/熟肉] 鸣潮的存储膨胀：UE4 的限制、技术债，以及这款游戏为什么这么大](https://justpureh2o.cn/articles/32708/): 从 UE4 的硬引用与分包机制说起，解释鸣潮的包体为什么会长到 120GB 以上：硬引用导致跨 pak 资源重复、老活动留下的依赖链、以及预下载期间新旧版本同时驻留的补丁管线，并说明为什么问题不在压缩算法而在架构。
+- [[逐行分析] 原神抽卡脚本如何获取你的抽卡记录](https://justpureh2o.cn/articles/20438/)
+- [Firefly 魔改指南](https://justpureh2o.cn/articles/20018/)
+- [记本博客集成 WebcoreUI 时遇到的坑](https://justpureh2o.cn/articles/7082/)
+- [[AI 文生图] 提示词收集](https://justpureh2o.cn/articles/6358/)
+- [[杂谈] 2026 年 6 月谈](https://justpureh2o.cn/articles/78396/)
+- [为什么我选择迁移博客到 Astro](https://justpureh2o.cn/articles/41442/)
+- [2026 春晚数字魔术解密](https://justpureh2o.cn/articles/14160/)
+- [未来流水账｜待办记录](https://justpureh2o.cn/articles/42612/)
+- [[秋星曜野 桂月垂光] 星野模型提取](https://justpureh2o.cn/articles/7205/)
+- [[论导必洛] 高中数学导数常见题型及解题策略详解](https://justpureh2o.cn/articles/48207/)
+- [C 君记略](https://justpureh2o.cn/articles/83202/)
+- [高中生物 聚合酶链式反应 PCR](https://justpureh2o.cn/articles/24404/)
+- [高中语文大考作文AI升格范文积累](https://justpureh2o.cn/articles/52017/)
+- [电阻六讲 高中物理测量未知电阻实验总结](https://justpureh2o.cn/articles/51920/)
+- [网图溯源导论](https://justpureh2o.cn/articles/50805/)
+- [圆锥曲线 解题指导及二级结论](https://justpureh2o.cn/articles/48357/)
+- [竞赛赋（并序）](https://justpureh2o.cn/articles/29837/)

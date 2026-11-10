@@ -1,0 +1,1 @@
+import{r as a}from"./DOMUtils.BIXW21cz.js";var t=()=>{a('[data-id="hamburger"]',"click",r=>{const e=r.currentTarget.parentElement?.parentElement;e.dataset.active=e.dataset.active==="true"?"false":"true"})};a(document,"astro:after-swap",t);t();
