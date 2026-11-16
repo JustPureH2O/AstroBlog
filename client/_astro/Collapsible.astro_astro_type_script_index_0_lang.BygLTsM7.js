@@ -1,0 +1,1 @@
+import{r}from"./DOMUtils.BIXW21cz.js";var l=()=>{r('[data-id="w-collapsible"]',"click",t=>{const e=t.currentTarget,a=t.target;a.parentElement?.dataset.toggleOn&&(e.dataset.toggled="true"),a.parentElement?.dataset.toggleOff&&(e.dataset.toggled="false")},!0)};r(document,"astro:after-swap",l);l();
