@@ -1,0 +1,1 @@
+import{r as a}from"./DOMUtils.BIXW21cz.js";var e=()=>{a('[data-id="w-accordion"]',"click",r=>{const t=r.target;t.dataset.toggle&&(t.dataset.open=t.dataset.open==="true"?"false":"true")},!0)};a(document,"astro:after-swap",e);e();
